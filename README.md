@@ -7,7 +7,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |     :---:    |     :---:      |     
 | 1     | [California Housing Predictions](https://github.com/Zinwaiyan274/Re-practice-multiple-linear-regression)   | 
 | 2     | [Sales Prediction](https://github.com/Zinwaiyan274/Sales-Prediction)      | 
-| 3   | git status     | 
+| 3   | [Covid-19-Vaccines-Analysis](https://github.com/Zinwaiyan274/Covid-19-Vaccines-Analysis)     | 
 | 4     | git diff       | 
 | 5   | git status     | 
 | 6    | git diff       | 
