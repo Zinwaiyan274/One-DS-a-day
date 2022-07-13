@@ -6,7 +6,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |      Day     |  Project   |  
 |     :---:    |     :---:      |     
 | 1     | [California Housing Predictions](https://github.com/Zinwaiyan274/Re-practice-multiple-linear-regression)   | 
-| 2     | git diff       | 
+| 2     | [Sales Prediction](https://github.com/Zinwaiyan274/Sales-Prediction)      | 
 | 3   | git status     | 
 | 4     | git diff       | 
 | 5   | git status     | 
