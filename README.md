@@ -10,7 +10,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 3   | [Covid-19-Vaccines-Analysis](https://github.com/Zinwaiyan274/Covid-19-Vaccines-Analysis)     | 
 | 4     | [Correlation Concepts](https://github.com/Zinwaiyan274/EDA---Correlation)       | 
 | 5   | [Bankruptcy Prediction](https://github.com/Zinwaiyan274/Bankruptcy-Prediction)   | 
-| 6    | git diff       | 
+| 6    | [IPL 2022 Analysis](https://github.com/Zinwaiyan274/IPL-2022-Analysis)      | 
 | 7   | git status     | 
 | 8     | git diff       | 
 
