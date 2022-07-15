@@ -15,3 +15,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 8     | [Facebook Prophet model applied in Tesla Stock Price Prediction](https://github.com/Zinwaiyan274/Tesla-Stock-Price-Prediction-using-Facebook-Prophet-model)|   
 | 9    | [Clustering Music Genres](https://github.com/Zinwaiyan274/Clustering-Music-Genres)      | 
 | 10     | []()       | 
+| 11     | []()       | 
+| 12     | []()       | 
+| 13     | []()       | 
+| 14     | []()       | 
