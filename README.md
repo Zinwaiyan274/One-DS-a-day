@@ -12,5 +12,5 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 5   | [Bankruptcy Prediction](https://github.com/Zinwaiyan274/Bankruptcy-Prediction)   | 
 | 6    | [IPL 2022 Analysis](https://github.com/Zinwaiyan274/IPL-2022-Analysis)      | 
 | 7   | [Product Demand Prediction](https://github.com/Zinwaiyan274/Product-Demand-Prediction)     | 
-| 8     | git diff       | 
+| 8     | [Tesla Stock Price Prediction using Facebook Prophet model](https://github.com/Zinwaiyan274/Tesla-Stock-Price-Prediction-using-Facebook-Prophet-model)    | 
 
