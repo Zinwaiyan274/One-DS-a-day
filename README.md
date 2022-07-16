@@ -14,8 +14,12 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 7   | [Product Demand Prediction](https://github.com/Zinwaiyan274/Product-Demand-Prediction)     | 
 | 8     | [Facebook Prophet model applied in Tesla Stock Price Prediction](https://github.com/Zinwaiyan274/Tesla-Stock-Price-Prediction-using-Facebook-Prophet-model)|   
 | 9    | [Clustering Music Genres](https://github.com/Zinwaiyan274/Clustering-Music-Genres)      | 
-| 10     | []()       | 
-| 11     | []()       | 
-| 12     | []()       | 
+| 10     | [Ukraine Russia War Twitter Sentiment Analysis](https://github.com/Zinwaiyan274/Ukraine-Russia-War-Twitter-Sentiment-Analysis)       | 
+| 11     | [Breast Cancer Survival Prediction](https://github.com/Zinwaiyan274/Breast-Cancer-Survival-Prediction)       | 
+| 12     | [Case Study of Waiter tips prediction](https://github.com/Zinwaiyan274/waiter-tips-prediction-with-machine-learning)       | 
 | 13     | []()       | 
 | 14     | []()       | 
+| 15| []()       |
+| 16     | []()       |
+| 17| []()       |
+| 18     | []()       |
