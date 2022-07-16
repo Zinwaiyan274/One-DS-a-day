@@ -17,7 +17,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 10     | [Ukraine Russia War Twitter Sentiment Analysis](https://github.com/Zinwaiyan274/Ukraine-Russia-War-Twitter-Sentiment-Analysis)       | 
 | 11     | [Breast Cancer Survival Prediction](https://github.com/Zinwaiyan274/Breast-Cancer-Survival-Prediction)       | 
 | 12     | [Case Study of Waiter tips prediction](https://github.com/Zinwaiyan274/waiter-tips-prediction-with-machine-learning)       | 
-| 13     | [Google Search Analysis](https://github.com/Zinwaiyan274/Google-Search-Analysis)       | 
+| 13     | [Google Search Analysis](https://github.com/Zinwaiyan274/Google-Search-Analysis-)       | 
 | 14     | []()       | 
 | 15| []()       |
 | 16     | []()       |
