@@ -23,3 +23,6 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 16     | []()       |
 | 17| []()       |
 | 18     | []()       |
+| 19     | []()       |
+| 20     | []()       |
+| 21     | []()       |
