@@ -19,7 +19,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 12     | [Case Study of Waiter tips prediction](https://github.com/Zinwaiyan274/waiter-tips-prediction-with-machine-learning)       | 
 | 13     | [Google Search Analysis](https://github.com/Zinwaiyan274/Google-Search-Analysis-)       | 
 | 14     | [Virat Kohli Performance Analysis](https://github.com/Zinwaiyan274/Virat-Kohli-Performance-Analysis)       | 
-| 15| []()       |
+| 15| [News-Classification](https://github.com/Zinwaiyan274/News-Classification)       |
 | 16     | []()       |
 | 17| []()       |
 | 18     | []()       |
