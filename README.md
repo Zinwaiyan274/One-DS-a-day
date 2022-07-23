@@ -22,7 +22,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 15| [News-Classification](https://github.com/Zinwaiyan274/News-Classification)       |
 | 16     | [Unemployment Analysis](https://github.com/Zinwaiyan274/Unemployment-Analysis)       |
 | 17| [LSTM Neural Network applied in Stock Price Prediction](https://github.com/Zinwaiyan274/Long-Short-Term-Memory-Nneural-Network)       |
-| 18     | []()       |
+| 18     | [Spam Detection](https://github.com/Zinwaiyan274/Spam-Detection)       |
 | 19     | []()       |
 | 20     | []()       |
 | 21     | []()       |
