@@ -24,5 +24,8 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 17| [LSTM Neural Network applied in Stock Price Prediction](https://github.com/Zinwaiyan274/Long-Short-Term-Memory-Nneural-Network)       |
 | 18     | [Spam Detection](https://github.com/Zinwaiyan274/Spam-Detection)       |
 | 19     | [PresidentHeights Analysis](https://github.com/Zinwaiyan274/President-Heights-Analysis)       |
-| 20     | []()       |
+| 20     | [Multinomial Naïve Bayes applied in Language Detection](https://github.com/Zinwaiyan274/Language-Detection)       |
 | 21     | []()       |
+
+
+
