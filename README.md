@@ -26,7 +26,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 19     | [President Heights Analysis](https://github.com/Zinwaiyan274/President-Heights-Analysis)       |
 | 20     | [Multinomial Naïve Bayes applied in Language Detection](https://github.com/Zinwaiyan274/Language-Detection)       |
 | 21     | [Billionaires Analysis](https://github.com/Zinwaiyan274/Billionaires-Analysis)       |
-| 22     | []()  |
+| 22     | [Logistic Regression applied in Fake Currency Detection](https://github.com/Zinwaiyan274/Fake-Currency-Detection-using-Logistic-Regression)  |
 
 
 
