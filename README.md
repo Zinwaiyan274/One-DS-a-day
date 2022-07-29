@@ -28,5 +28,5 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 21     | [Billionaires Analysis](https://github.com/Zinwaiyan274/Billionaires-Analysis)       |
 | 22     | [Logistic Regression applied in Fake Currency Detection](https://github.com/Zinwaiyan274/Fake-Currency-Detection-using-Logistic-Regression)  |
 | 23     | [Spelling Auto Correction](https://github.com/Zinwaiyan274/Spelling-Auto-Correction) |
-
+| 24     | [Movie Rating Analysis](https://github.com/Zinwaiyan274/Movie-Rating-Analysis)|
 
