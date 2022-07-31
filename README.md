@@ -30,4 +30,4 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 23     | [Spelling Auto Correction](https://github.com/Zinwaiyan274/Spelling-Auto-Correction) |
 | 24     | [Movie Rating Analysis](https://github.com/Zinwaiyan274/Movie-Rating-Analysis)|
 | 25     | [Ecommerce Reviews Sentiment Analysis](https://github.com/Zinwaiyan274/Ecommerce-Reviews-Sentiment-Analysis/)|
-
+| 26     | [Financial Budget Analysis](https://github.com/Zinwaiyan274/Financial-Budget-Analysis)  |
