@@ -35,3 +35,4 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 28     | [Topic Modeling](https://github.com/Zinwaiyan274/Topic-Modeling) |
 | 29     | [Classification Algorithm Comparison](https://github.com/Zinwaiyan274/ML-Classification-Algorithm-Comparison-) |
 | 30     | [Uber Trips Analysis](https://github.com/Zinwaiyan274/Uber-Trips-Analysis) |
+| 31    | [AlexNet Architecture applied in CIFAR dataset ](https://github.com/Zinwaiyan274/AlexNet-Architecture) |
