@@ -37,4 +37,6 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 30     | [Uber Trips Analysis](https://github.com/Zinwaiyan274/Uber-Trips-Analysis) |
 | 31    | [AlexNet Architecture applied in CIFAR dataset ](https://github.com/Zinwaiyan274/AlexNet-Architecture) |
 | 32    | [Dogecoin Price Prediction](https://github.com/Zinwaiyan274/Dogecoin-Price-Prediction) |
-| 33    | []() |
+| 33    | [Currency Exchange Rate Prediction](https://github.com/Zinwaiyan274/Currency-Exchange-Rate-Prediction) |
+| 34    | []()         |
+| 35     | []()   |
