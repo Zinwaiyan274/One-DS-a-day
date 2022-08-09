@@ -39,4 +39,8 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 32    | [Dogecoin Price Prediction](https://github.com/Zinwaiyan274/Dogecoin-Price-Prediction) |
 | 33    | [Currency Exchange Rate Prediction](https://github.com/Zinwaiyan274/Currency-Exchange-Rate-Prediction) |
 | 34    | [Movie Recommendation](https://github.com/Zinwaiyan274/Movie-Recommendation)         |
-| 35     | []()   |
+| 35     | [NLP, Passage analysis](https://github.com/Zinwaiyan274/Ace-assignment/blob/main/Q3.ipynb)   |
+| 36     | []()  |
+| 37    | []()|
+| 38    | []()|
+|39     | []()|
