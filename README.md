@@ -40,7 +40,28 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 33    | [Currency Exchange Rate Prediction](https://github.com/Zinwaiyan274/Currency-Exchange-Rate-Prediction) |
 | 34    | [Movie Recommendation](https://github.com/Zinwaiyan274/Movie-Recommendation)         |
 | 35     | [NLP, paragraph analysis](https://github.com/Zinwaiyan274/Ace-assignment/blob/main/Q3.ipynb)   |
-| 36     | []()  |
+| 36     | [Quick Feacture Engineering for Sentiment-Analysis](https://github.com/Zinwaiyan274/Quick-Feacture-Engineering-for-Sentiment-Analysis/blob/main/README.md)  |
 | 37    | []()|
 | 38    | []()|
 |39     | []()|
+|40     | []()|
+|41     | []()|
+|42     | []()|
+|43     | []()|
+|44     | []()|
+|45     | []()|
+|46     | []()|
+|47     | []()|
+|48     | []()|
+|49     | []()|
+|50     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+|39     | []()|
+
