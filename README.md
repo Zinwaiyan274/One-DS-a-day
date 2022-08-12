@@ -42,7 +42,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 35     | [NLP, paragraph analysis](https://github.com/Zinwaiyan274/Ace-assignment/blob/main/Q3.ipynb)   |
 | 36     | [Quick Feacture Engineering for Sentiment-Analysis](https://github.com/Zinwaiyan274/Quick-Feacture-Engineering-for-Sentiment-Analysis/blob/main/README.md)  
 | 37    | [Classification-Neural-Networks](https://github.com/Zinwaiyan274/-Classification-Neural-Networks-)|
-| 38    | []()|
+| 38    | [The Oil Palm, EDA](https://github.com/Zinwaiyan274/The-Oil-Palm-EDA)|
 |39     | []()|
 |40     | []()|
 |41     | []()|
