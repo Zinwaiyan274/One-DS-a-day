@@ -45,7 +45,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 | 38    | [The Oil Palm, EDA](https://github.com/Zinwaiyan274/The-Oil-Palm-EDA)|
 |39     | [Cryptocurrency Price Prediction for next 30days](https://github.com/Zinwaiyan274/Cryptocurrency-Price-Prediction-for-next-30days)|
 |40     | [Omicron Sentiment Analysis](https://github.com/Zinwaiyan274/Omicron-Sentiment-Analysis)|
-|41     | []()|
+|41     | [Customer Personality Analysis](https://github.com/Zinwaiyan274/Customer-Personality-Analysis)|
 |42     | []()|
 |43     | []()|
 |44     | []()|
