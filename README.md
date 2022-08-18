@@ -47,7 +47,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |40     | [Omicron Sentiment Analysis](https://github.com/Zinwaiyan274/Omicron-Sentiment-Analysis)|
 |41     | [Customer Personality Analysis](https://github.com/Zinwaiyan274/Customer-Personality-Analysis)|
 |42     | [Keyword Research](https://github.com/Zinwaiyan274/Keyword-Research)|
-|43     | []()|
+|43     | [Employee Attrition Prediction](https://github.com/Zinwaiyan274/Employee-Attrition-Prediction)|
 |44     | []()|
 |45     | []()|
 |46     | []()|
