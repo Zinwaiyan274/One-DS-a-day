@@ -48,7 +48,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |41     | [Customer Personality Analysis](https://github.com/Zinwaiyan274/Customer-Personality-Analysis)|
 |42     | [Keyword Research](https://github.com/Zinwaiyan274/Keyword-Research)|
 |43     | [Employee Attrition Prediction](https://github.com/Zinwaiyan274/Employee-Attrition-Prediction)|
-|44     | []()|
+|44     | [Life Expectancy Analysis](https://github.com/Zinwaiyan274/Life-Expectancy-Analysis.)|
 |45     | []()|
 |46     | []()|
 |47     | []()|
