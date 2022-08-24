@@ -49,7 +49,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |42     | [Keyword Research](https://github.com/Zinwaiyan274/Keyword-Research)|
 |43     | [Employee Attrition Prediction](https://github.com/Zinwaiyan274/Employee-Attrition-Prediction)|
 |44     | [Life Expectancy Analysis](https://github.com/Zinwaiyan274/Life-Expectancy-Analysis.)|
-|45     | [Insurance Predictio](https://github.com/Zinwaiyan274/Insurance-Prediction)|
+|45     | [Insurance Prediction](https://github.com/Zinwaiyan274/Insurance-Prediction)|
 |46     | [Title Generator](https://github.com/Zinwaiyan274/Title-Generator)|
 |47     | []()|
 |48     | []()|
