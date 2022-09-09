@@ -52,7 +52,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |45     | [Insurance Prediction](https://github.com/Zinwaiyan274/Insurance-Prediction)|
 |46     | [Title Generator](https://github.com/Zinwaiyan274/Title-Generator)|
 |47     | [NER : Named Entity Recognition](https://github.com/Zinwaiyan274/NER-Named-Entity-Recognition-)|
-|48     | []()|
+|48     | [Twitter-Sentiment-Analysis](https://github.com/Zinwaiyan274/Twitter-Sentiment-Analysis)|
 |49     | []()|
 |50     | []()|
 |51     | []()|
