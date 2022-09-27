@@ -54,7 +54,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |47     | [NER : Named Entity Recognition](https://github.com/Zinwaiyan274/NER-Named-Entity-Recognition-)|
 |48     | [Twitter-Sentiment-Analysis](https://github.com/Zinwaiyan274/Twitter-Sentiment-Analysis)|
 |49     | [Gaussian Naive Bayesian From Scratch](https://github.com/Zinwaiyan274/Gaussian-Naive-Bayesian-From-Scratch)|
-|50     | []()|
+|50     | [2022 Flight Ticket Sale Prediction using AutoTS](https://github.com/Zinwaiyan274/Flight-Ticket-Sale-Prediction-using-AutoTS)|
 |51     | []()|
 |52     | []()|
 |53     | []()|
