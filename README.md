@@ -55,7 +55,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |48     | [Twitter-Sentiment-Analysis](https://github.com/Zinwaiyan274/Twitter-Sentiment-Analysis)|
 |49     | [Gaussian Naive Bayesian From Scratch](https://github.com/Zinwaiyan274/Gaussian-Naive-Bayesian-From-Scratch)|
 |50     | [2022 Flight Ticket Sale Prediction using AutoTS](https://github.com/Zinwaiyan274/Flight-Ticket-Sale-Prediction-using-AutoTS)|
-|51     | []()|
+|51     | [Reconstruction based anomaly detection with Autoencoder](https://github.com/Zinwaiyan274/Reconstruction-based-anomaly-detection-with-Autoencoder)|
 |52     | []()|
 |53     | []()|
 |54     | []()|
