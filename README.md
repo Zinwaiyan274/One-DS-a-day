@@ -58,7 +58,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |51     | [Reconstruction based anomaly detection with Autoencoder](https://github.com/Zinwaiyan274/Reconstruction-based-anomaly-detection-with-Autoencoder)|
 |52     | [Transfer-Learning](https://github.com/Zinwaiyan274/Transfer-Learning-)|
 |53     | [statistical Distribution from scratch in Python-](https://github.com/Zinwaiyan274/Statistical-Distribution-from-scratch-in-Python-)|
-|54     | []()|
+|54     | [Titanic_EDA_and_ML](https://github.com/Zinwaiyan274/Titanic_EDA_and_ML)
 |55     | []()|
 |56     | []()|
 |57     | []()|
