@@ -57,7 +57,7 @@ As I am challenging myself to explore data science and AI concepts and applied a
 |50     | [2022 Flight Ticket Sale Prediction using AutoTS](https://github.com/Zinwaiyan274/Flight-Ticket-Sale-Prediction-using-AutoTS)|
 |51     | [Reconstruction based anomaly detection with Autoencoder](https://github.com/Zinwaiyan274/Reconstruction-based-anomaly-detection-with-Autoencoder)|
 |52     | [Transfer-Learning](https://github.com/Zinwaiyan274/Transfer-Learning-)|
-|53     | []()|
+|53     | [statistical Distribution from scratch in Python-](https://github.com/Zinwaiyan274/Statistical-Distribution-from-scratch-in-Python-)|
 |54     | []()|
 |55     | []()|
 |56     | []()|
